@@ -14,7 +14,7 @@ It also allows them to set their tasks and prioritize them according to importan
 ✔️ **Cross-Platform Flutter App** – Runs on Android, iOS, Web, macOS, Windows & Linux  
 ✔️ **Clean & Minimal UI** – Lightweight and intuitive design  
 ✔️ **Modular Architecture** – Easy to extend with new AI-based tools
-✔️ **Internet connectivity and privacy** – The application works offline, only connecting to the internet upon initial launch to download the model. After that, it never connects to the internet again, providing a very high level of user privacy.
+✔️ **Internet connectivity and privacy** – The application works offline, only connecting to the internet upon initial launch to download the model. After that, it never connects to the internet again, providing a very high level of user privacy
 
 ---
 ### 📝 Notes List
