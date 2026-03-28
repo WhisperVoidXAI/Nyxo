@@ -68,3 +68,6 @@ git clone https://github.com/WhisperVoidXAI/smart-notes-ai.git
 cd smart-notes-ai
 Connect on LinkedIn:
 https://www.linkedin.com/in/ibrahim-ai-eng/
+---
+© 2026 Ibrahim AbdRabbo. All rights reserved.  
+Any reproduction, distribution, or commercial use of this project without explicit permission is prohibited.
