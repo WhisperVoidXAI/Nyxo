@@ -1,6 +1,6 @@
-# 📓 Smart Notes AI
+# 📓 Nyxo
 
-Smart Notes AI is an **AI-powered note-taking Flutter application** designed to help you **write, organize, and chat with your notes using a built-in AI assistant**.  
+Nyxo is an **AI-powered note-taking Flutter application** designed to help you **write, organize, and chat with your notes using a built-in AI assistant**.  
 This app enables users to capture ideas, summarize content, and interact intelligently with their notes using modern LLM techniques.
 It also allows them to set their tasks and prioritize them according to importance.
 
@@ -14,7 +14,7 @@ It also allows them to set their tasks and prioritize them according to importan
 ✔️ **Cross-Platform Flutter App** – Runs on Android, iOS, Web, macOS, Windows & Linux  
 ✔️ **Clean & Minimal UI** – Lightweight and intuitive design  
 ✔️ **Modular Architecture** – Easy to extend with new AI-based tools
-✔️ **Internet connectivity and privacy** – The application works offline, only connecting to the internet upon initial launch to download the model. After that, it never connects to the internet again, providing a very high level of user privacy
+✔️ **Internet connectivity and privacy** – The application works offline, only connecting to the internet upon initial launch to download the model After that, it never connects to the internet again, providing a very high level of user privacy
 
 ---
 ### 📝 Notes List
@@ -36,7 +36,7 @@ It also allows them to set their tasks and prioritize them according to importan
 
 ## 🧠 How It Works
 
-Smart Notes AI uses artificial intelligence to intelligently process your text.  
+Nyxo uses artificial intelligence to intelligently process your text.  
 Instead of manually reading long notes, the app uses AI to summarize, answer questions, and extract key insights — all inside the app. This gives you a **true personal AI note assistant** experience.
 It also helps you organize your tasks by importance.
 ---
